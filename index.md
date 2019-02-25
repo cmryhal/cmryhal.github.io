@@ -1,5 +1,5 @@
-KONICHIWA
-### My name is Casey
+## KONICHIWA
+# My name is Casey
 
 This website is designed as a class project and personal space to describe my biography and a specific topic I am interested in. 
 
