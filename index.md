@@ -1,6 +1,8 @@
 # Hello
 ### My name is Casey
 
-This is normal text 
+This website is designed as a class project and personal space to describe my biography and a specific topic I am interested in. 
 
-This is *italics* text
+*Creating Websites Are Fun!*
+
+![websites](websites-558x237.JPG)
